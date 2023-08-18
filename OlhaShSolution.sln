@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork3.2", "HomeWork3.2\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork6Cart", "HomeWork6Cart\HomeWork6Cart.csproj", "{ACBBA299-C96F-4850-B134-C656B86D8127}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork11Selenium", "HomeWork11Selenium\HomeWork11Selenium.csproj", "{83FA38CF-9238-42BF-89E9-1AB283F63DC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{ACBBA299-C96F-4850-B134-C656B86D8127}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACBBA299-C96F-4850-B134-C656B86D8127}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACBBA299-C96F-4850-B134-C656B86D8127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83FA38CF-9238-42BF-89E9-1AB283F63DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FA38CF-9238-42BF-89E9-1AB283F63DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FA38CF-9238-42BF-89E9-1AB283F63DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FA38CF-9238-42BF-89E9-1AB283F63DC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
